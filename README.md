@@ -8,6 +8,4 @@
         <h4>*Gold platted cup electrode<h4>
           <h4>*AD8232<h4>
           <h4>*ESP8266-01<h4>
-    <h2>Existing methods<h2>
-      <h4>SmartWatch-inspyre<h4>
-        <h4>seizalarm<h4>
+
