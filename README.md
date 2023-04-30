@@ -8,5 +8,5 @@
         <h4>*Gold platted cup electrode<h4>
           <h4>*AD8232<h4>
           <h4>*ESP8266-01<h4>
-             <img src="block.jpeg" alt="" />
+            
 
